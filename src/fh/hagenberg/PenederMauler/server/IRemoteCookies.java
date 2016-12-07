@@ -1,4 +1,4 @@
-package fh.hagenberg.PenederMauler;
+package fh.hagenberg.PenederMauler.server;
 
 import java.rmi.Remote;
 import java.rmi.RemoteException;
